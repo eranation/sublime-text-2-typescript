@@ -6,7 +6,7 @@
     "windows": {
         "cmd": ["tsc.cmd", "$file"]
     },
-	"osx": {
+    "osx": {
        "path": "/usr/local/bin:/opt/local/bin"
     }
 	
