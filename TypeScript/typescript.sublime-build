@@ -4,7 +4,7 @@
     "selector": "source.ts",
 
     "windows": {
-        "cmd": ["tsc.cmd", "$file"]
+        "cmd": ["tsc.cmd", "-sourcemap", "$file"]
     },
     "osx": {
        "path": "/usr/local/bin:/opt/local/bin"
