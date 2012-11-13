@@ -3,7 +3,7 @@ sublime-text-2-typescript
 
 A simple package for Sublime Text 2 that includes syntax highlighting and a basic build system.
 
-It supports creating sourcemaps which can be used by Canary and FF Nightlies for better debugging.
+It supports creating sourcemaps which can be used by Chrome and Firefox for better debugging.
 
 credits: 
 Build System Windows: http://stackoverflow.com/a/12781051/239168 
